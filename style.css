@@ -93,7 +93,6 @@ body {
     margin-right: 2%;
     border-radius: 15px;
     box-shadow: 10px 10px 40px 8px rgb(196, 134, 204);
-    margin-bottom: 100px;
 }
 
 #middle-box {
@@ -120,4 +119,9 @@ body {
 
 #center {
     text-align: center;
+}
+
+footer p {
+    text-align: center;
+    padding-top: 450px;
 }
